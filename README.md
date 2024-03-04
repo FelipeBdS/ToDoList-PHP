@@ -14,7 +14,7 @@ Este é um simples aplicativo To-Do List desenvolvido em HTML, CSS, jQuery e PHP
 1. Clone o repositório:
 
     ```bash
-    git clone https://github.com/SeuNome/ToDoList-PHP.git
+    git clone https://github.com/FelipeBdS/ToDoList-PHP.git
     ```
 
 2. Instale as dependências do Composer:
