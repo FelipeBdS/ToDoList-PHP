@@ -1,0 +1,7 @@
+{
+    "require": {
+        "ext-pdo_pgsql": "*",
+        "ext-pgsql": "*",
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
